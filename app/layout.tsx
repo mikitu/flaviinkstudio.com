@@ -26,9 +26,9 @@ const siteUrl = "https://flaviinkstudio.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Flavi Ink Studio — Custom Tattoos & Design | Coming Soon",
+  title: "Flavi Ink Studio — Custom Tattoos & Design in Craiova",
   description:
-    "Flavi Ink Studio — Custom tattoos & design in Craiova, Romania. Realism, Black & Grey, Fine Line. Our new website is coming soon.",
+    "Flavi Ink Studio — Custom tattoos & design in Craiova, Romania. Realism, Black & Grey and Fine Line tattoos. Book your consultation.",
   keywords: [
     "Flavi Ink Studio",
     "tattoo Craiova",
@@ -48,9 +48,9 @@ export const metadata: Metadata = {
     type: "website",
     url: siteUrl,
     siteName: "Flavi Ink Studio",
-    title: "Flavi Ink Studio — Coming Soon",
+    title: "Flavi Ink Studio — Custom Tattoos & Design",
     description:
-      "Custom tattoos & design in Craiova, Romania. Our new website is coming soon.",
+      "Custom tattoos & design in Craiova, Romania. Realism, Black & Grey and Fine Line.",
     images: [
       {
         url: "/logo.png",
@@ -62,9 +62,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Flavi Ink Studio — Coming Soon",
+    title: "Flavi Ink Studio — Custom Tattoos & Design",
     description:
-      "Custom tattoos & design in Craiova, Romania. Our new website is coming soon.",
+      "Custom tattoos & design in Craiova, Romania. Realism, Black & Grey and Fine Line.",
     images: ["/logo.png"],
   },
   robots: {
