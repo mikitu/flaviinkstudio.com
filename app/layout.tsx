@@ -44,8 +44,8 @@ export const metadata: Metadata = {
   applicationName: "Flavi Ink Studio",
   authors: [{ name: "Flavi Ink Studio" }],
   icons: {
-    icon: "/logo.png",
-    apple: "/logo.png",
+    icon: "/favicon.png",
+    apple: "/favicon.png",
   },
   openGraph: {
     type: "website",
