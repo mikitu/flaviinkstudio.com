@@ -1,5 +1,5 @@
 export const social = {
-  instagram: "https://www.instagram.com/flaviinkstudio",
+  instagram: "https://www.instagram.com/flavi.tattoo",
   facebook: "https://facebook.com/FlaviInk",
   facebookPhotos: "https://www.facebook.com/FlaviInk/photos",
   whatsapp: "https://wa.me/447379678336",
